@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaipot Kongjansawang
 =============================================================================================================================================
 
-Student
--------
+Kasetsart University 2021 - Present
+-----------------------------------
+
+Bachelor of Engineering in Computer Engineering
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chaipotton@gmail.com](mailto:chaipotton@gmail.com)
